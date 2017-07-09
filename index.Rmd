@@ -61,7 +61,7 @@ https://kumalok.shinyapps.io/bestcar4yourtrip/
 
 Source code for ui.R and server.R files are available on the GitHub:
 
-https://github.com/kumalok/developing_data_products/BestCar4Trip
+https://github.com/kumalok/developing_data_products/tree/master/BestCar4Trip
 
 
 ---
